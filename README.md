@@ -28,6 +28,7 @@ Before running above codes, you may need to install following packages or enviro
 
 
 
+
 **Files in the folder**
 
 The files are functioning like this:
@@ -69,26 +70,23 @@ The files are functioning like this:
   Traffic flow files. The intersection is connected with four road segments of 300-meters long.		
 
 
-  ​
+  
 
 
 If you are new to SUMO, hope these slides can help you with a good start (http://personal.psu.edu/hzw77/posts.html#sumo-introduction).
 
 
 
+
 **Citation**
 
 ```
-@inproceedings{Wei:2018:IRL:3219819.3220096,
- author = {Wei, Hua and Zheng, Guanjie and Yao, Huaxiu and Li, Zhenhui},
- title = {IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control},
- booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
- series = {KDD '18},
- year = {2018},
- location = {London, United Kingdom},
- pages = {2496--2505},
- numpages = {10},
- publisher = {ACM},
- address = {New York, NY, USA},
+@inproceedings{wei2018intellilight,
+  title={IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control},
+  author={Wei, Hua and Zheng, Guanjie and Yao, Huaxiu and Li, Zhenhui},
+  booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={2496--2505},
+  year={2018},
+  organization={ACM}
 }
 ```
