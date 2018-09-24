@@ -75,4 +75,19 @@ If you are new to SUMO, hope these slides can help you with a good start (http:/
 
 
 
+**Citation**
 
+```
+@inproceedings{Wei:2018:IRL:3219819.3220096,
+ author = {Wei, Hua and Zheng, Guanjie and Yao, Huaxiu and Li, Zhenhui},
+ title = {IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control},
+ booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+ series = {KDD '18},
+ year = {2018},
+ location = {London, United Kingdom},
+ pages = {2496--2505},
+ numpages = {10},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}
+```
