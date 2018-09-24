@@ -4,7 +4,7 @@
 
 This project has been published as the following conference paper:
 
-> Hua Wei\*, Guanjie Zheng\*, Huaxiu Yao, Zhenhui Li, IntelliLight: A Reinforcement Learning Approach for Intelligent Trafficc Light Control, in Proceedings of the 2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18), London, UK, August 2018. 
+> Hua Wei\*, Guanjie Zheng\*, Huaxiu Yao, Zhenhui Li, IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control, in Proceedings of the 2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD'18), London, UK, August 2018. 
 >
 > (\*Co-First author.)
 
