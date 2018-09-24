@@ -1,0 +1,40 @@
+# folders
+model/
+records/
+.idea/
+__pycache__/
+
+# files
+*TLS.switch.output.xml
+workspace.xml
+data/cross.real.rou.repeat.xml
+data/cross.10_11_01.rou.xml
+data/cross.10_11_01.SOTL.rou.xml
+*.real.xml
+
+
+# regular exps
+*.log
+*.pyc
+*.swp
+console*
+events.out.tfevents.*
+test_*.py
+*.xml_*
+*.pdf
+*.csv
+*.png
+*-7days*.xml
+
+conf/Deeplight*
+data/Deeplight*
+
+conf/NIPS*
+data/NIPS*
+
+conf/SOTL*
+data/SOTL*
+
+conf/Fixedtime*
+data/Fixedtime*
+
