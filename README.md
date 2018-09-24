@@ -1,6 +1,6 @@
-# IntelliLight
+# IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control
 
-
+**Introduction**
 
 This project has been published as the following conference paper:
 
@@ -28,6 +28,7 @@ Before running above codes, you may need to install following packages or enviro
 
 
 
+**Files in the folder**
 
 The files are functioning like this:
 
