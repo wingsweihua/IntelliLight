@@ -1,5 +1,9 @@
 # IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control
 
+We've also investigated traffic signal control problems in multi-intersection control scenarios. If you are interested, please refer to 
+[PressLight](http://personal.psu.edu/hzw77/publications/presslight-kdd19.pdf) and [CoLight](http://personal.psu.edu/hzw77/publications/colight-cikm19.pdf). For a more comphrehensive view on RL-based traffic signal control, you can visit [this project homepage](http://traffic-signal-control.github.io).
+
+
 **Introduction**
 
 This project has been published as the following conference paper:
@@ -11,7 +15,6 @@ This project has been published as the following conference paper:
 
 
 The full paper and demo can be found at the author's website.
-
 
 
 This project proposes a reinforcement learning based intelligent traffic light control system. Simply run the runexp.py to run the experiment. Please change the parameters in conf/ folder and runexp.py correspondingly if needed. Also, please specify the location of TraCI module in map_computor.py if necessary.
