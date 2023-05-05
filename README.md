@@ -1,5 +1,7 @@
 # IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control
 
+#### This repository is provided as-is, further updates are included in [LibSignal](https://darl-libsignal.github.io/), which supports flexible and cross-platform (CityFlow and SUMO) training and testing in PyTorch. We also actively looking for contributions for LibSignal, feel free to reach out if you would love to contribute to the project!
+
 We've also investigated traffic signal control problems in multi-intersection control scenarios. If you are interested, please refer to 
 [PressLight](http://personal.psu.edu/hzw77/publications/presslight-kdd19.pdf) and [CoLight](http://personal.psu.edu/hzw77/publications/colight-cikm19.pdf). For a more comphrehensive view on RL-based traffic signal control, you can visit [this project homepage](http://traffic-signal-control.github.io).
 
